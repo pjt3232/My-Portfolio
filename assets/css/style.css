@@ -95,6 +95,9 @@ p {
     height: auto;
 }
 
+.page-section #Work {
+    flex: 1 0 auto;
+}
 
 #Contact-Me ul {
     float: right;
@@ -110,4 +113,20 @@ p {
 #Contact-Me ul a {
     color: #ffffff;
     text-decoration: none;
+}
+
+@media screen and (max-width: 768px) {
+    .page-section, .sub-header, .header{
+        flex-direction: column;
+        align-items: center;
+        align-content: center;
+    }
+
+    ul {
+        display:flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
 }
