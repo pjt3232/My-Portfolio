@@ -8,9 +8,9 @@ To install this application go to the url "https://pjt3232.github.io/My-Portfoli
 
 ## Usage
 To use this application, go to the url "https://pjt3232.github.io/My-Portfolio/". The application should look like the screenshot below:
-```md
+
 ![Screenshot of the deployed application](./assets/images/My-Portfolio-Screenshot.png)
-```
+
 Once your at the deployed application, you can use the navigation links in the header to go to a specific section of the webpage (please note the resume section has not been added, yet). There is a section with information about me, my work, and my contact information. By clicking on any of the images found in the work section, it will take you to a deployed application of my work from the University of Wisconsin-Madison bootcamp. By clicking on any of the links in the "Contact Me" section, you will be able to send me a message by phone, email, or GitHub.
 
 ## Credits
