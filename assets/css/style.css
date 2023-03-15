@@ -13,8 +13,8 @@ h2 {
     font-size: 30px;
 }
 
-a:hover {
-    text-decoration: underline;
+p {
+    font-size:24px
 }
 
 .header {
@@ -50,10 +50,6 @@ a:hover {
 .header nav ul a {
     color: #ffffff;
     text-decoration: none;
-}
-
-p {
-    font-size: 24px;
 }
 
 .sub-header {
@@ -121,6 +117,10 @@ p {
 #Contact-Me ul a {
     color: #ffffff;
     text-decoration: none;
+}
+
+img:hover {
+    box-shadow: 7px 7px 10px rgba(0, 0, 0, 0.5);
 }
 
 @media screen and (max-width: 768px) {
