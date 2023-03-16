@@ -149,3 +149,9 @@ img:hover {
         justify-content: center;
     }
 }
+
+@media screen and (max-width: 980px) {
+    .pagesection img {
+        flex: 1 0 50%;
+    }
+}
